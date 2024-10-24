@@ -1,0 +1,5 @@
+e001 Suraj Prasad 120000  programmer
+e002 Niraj  Kumar 100000  developer
+e003 Krishna Nahak 120000 programmer
+e004 sohan  Morem 10000   gamer
+e005 Prasad Suraj 120000  programmer
